@@ -16,7 +16,10 @@ You can easily connect this font to your CSS using the method you prefer:
 ```css
 @import url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display@main/stylesheet.css');
 ```
-
+And then simply use this font in any of your CSS selectors. For example:
+```css
+p {font-family: "IsamiRi Display", sans-serif}
+```
 
 ## Thanks
 I am very thankful to [rsms](https://github.com/rsms) because I made this font with his script for Figma :)
