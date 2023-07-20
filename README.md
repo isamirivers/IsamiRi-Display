@@ -1,7 +1,7 @@
 # IsamiRi Display Font
 Cartoonish display font open for everyone to download or edit
 
-[![Download](images/download.png)](https://github.com/isamirivers/IsamiRi-Display/raw/main/IsamiRiDisplay-Bold.otf)
+[![Download](images/download.png)](https://github.com/isamirivers/IsamiRi-Display/tree/main/font)
 [![Edit in Figma](images/edit.png)](https://www.figma.com/community/file/1263659115038962956/IsamiRi-Display-Font)
 ![Font preview](images/preview.png)
 
