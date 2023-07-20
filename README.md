@@ -6,5 +6,5 @@ Cartoonish display font open for everyone to download or edit
 ![Font preview](images/preview.png)
 
 ## Thanks
-I am very thankful to @rsms because I made this font with his script for Figma :)
+I am very thankful to [rsms](https://github.com/rsms) because I made this font with his script for Figma :)
 https://www.figma.com/community/file/1115382696459820988/Making-a-font-in-Figma
