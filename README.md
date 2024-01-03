@@ -1,4 +1,4 @@
-# IsamiRi Display Font (v0.3)
+# IsamiRi Display Font v0.4
 Cartoonish display font open for everyone to download or edit
 
 [![Download](images/download.png)](https://github.com/isamirivers/IsamiRi-Display/tree/main/font)
