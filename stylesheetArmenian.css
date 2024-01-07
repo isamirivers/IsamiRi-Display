@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'IsamiRi Display Armenian';
+    src: url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/!Armenian/woff2/IsamiRiDisplayArmenian.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/!Armenian/woff/IsamiRiDisplayArmenian.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/!Armenian/ttf/IsamiRiDisplayArmenian.ttf') format('truetype'),
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/!Armenian/svg/IsamiRiDisplayArmenian.svg#IsamiRiDisplayRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IsamiRi Display Armenian';
+    src: url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/!Armenian/font/woff2/IsamiRiDisplayArmenianBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/!Armenian/font/woff/IsamiRiDisplayArmenianBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/!Armenian/font/ttf/IsamiRiDisplayArmenianBold.ttf') format('truetype'),
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/!Armenian/font/woff2/IsamiRiDisplayArmenianBold.svg#IsamiRiDisplayBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
