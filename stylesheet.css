@@ -13,8 +13,8 @@
     font-family: 'IsamiRi Display';
     src: url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/woff2/IsamiRiDisplayBold.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/woff/IsamiRiDisplayBold.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/ttf/IsamiRiDisplayRegular.ttf') format('truetype'),
-        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/woff2/IsamiRiDisplayRegular.svg#IsamiRiDisplayBold') format('svg');
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/ttf/IsamiRiDisplayBold.ttf') format('truetype'),
+        url('https://cdn.jsdelivr.net/gh/isamirivers/IsamiRi-Display/font/woff2/IsamiRiDisplayBold.svg#IsamiRiDisplayBold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
